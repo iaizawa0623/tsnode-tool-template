@@ -1,5 +1,5 @@
 # Description
-Node tool template
+ts-node tool template
 
 # Installation
 ```

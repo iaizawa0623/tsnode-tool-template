@@ -1,5 +1,5 @@
 {
-  "name": "node-tool-template",
+  "name": "tsnode-tool-template",
   "version": "0.1.0",
   "description": "",
   "main": "index.ts",
