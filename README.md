@@ -1,5 +1,5 @@
-# Node tool
-Hello, world!
+# Description
+Node tool template
 
 # Installation
 ```
